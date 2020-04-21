@@ -1,12 +1,32 @@
-# Unity-Project
+# Project Description
 Create Art, Animations and Code for Creative Coding and Making the Future Project.
+^ Replace this with a description of the game.
 
-## Goals
-1. Create and Animate a Charactor using Unity and Affinity Designer.
-2. Using the Animated Charactor to create a Spirit Sheet.
-3. Using the Spirit Sheet to create a Game. (Platformer)
-4. Finish the Game 
+### Project Milestones
+Milestone #1: Friday, April 24th, 2020
+Goal: Intial project idea, story, and placeholder files created. By this point, you will know the art-style, game mechanics, and initial storyline. You will also have started on creating an asset and animating that asset. You may or may not be finished with this.
+Tasks To Complete: <- Aden fill these out.
+- 
+- 
+- 
 
-### Deadlines
+Milestone #2: Friday, May 1st, 2020
+Goal: A playable prototype of the game. (Does not need to be good)
+Tasks To Complete: <- Aden fill these out.
+- 
+- 
+- 
 
-Um Idk I think this is where you come in Linus
+Milestone #3: Friday, May 8th, 2020
+Goal: A polished prototype of the game. (Project is refined and operates in a closed loop.)
+Tasks To Complete: <- Aden fill these out.
+- 
+- 
+- 
+
+Milestone #4: Friday, May 15th, 2020
+Goal: Additional iteration based on feedback from Milestone #3.
+Tasks To Complete: <- Aden fill these out.
+- 
+- 
+- 
